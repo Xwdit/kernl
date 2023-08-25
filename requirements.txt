@@ -5,6 +5,4 @@ tabulate
 termcolor
 transformers
 isort
-black[jupyter]
-flake8
 more_itertools
