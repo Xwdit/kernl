@@ -1,8 +1,5 @@
 torch==2.0.1
 triton==2.0.0
 pytest
-tabulate
-termcolor
 transformers
-isort
 more_itertools
