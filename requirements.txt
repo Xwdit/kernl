@@ -1,5 +1,4 @@
 torch==2.0.1
 triton==2.0.0
-pytest
 transformers
 more_itertools
